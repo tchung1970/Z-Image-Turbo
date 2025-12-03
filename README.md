@@ -1,6 +1,4 @@
-# How to install and Run Z-Image-Turbo on Google Colab
-
-Click on following link and following easy 3 steps
+# Google Colab에서 Z-Image-Turbo 설치 및 실행 방법
 
 아래 링크를 클릭하고, 안내된 3단계를 따라주세요.
 
